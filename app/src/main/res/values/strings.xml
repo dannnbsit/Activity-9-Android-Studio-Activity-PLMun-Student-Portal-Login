@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CITCS_PORTAL_03</string>
+    <string name="welcome_to_citcs_portal">Welcome to CITCS Portal!!!</string>
+    <string name="hint_enter_username">Enter username</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="CD_citcs_logo">CITCS Logo</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+</resources>
